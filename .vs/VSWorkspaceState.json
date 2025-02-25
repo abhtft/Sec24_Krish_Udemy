@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\artifacts",
+    "\\notebook",
+    "\\notebook\\data",
+    "\\src",
+    "\\src\\components",
+    "\\src\\pipeline",
+    "\\templates"
+  ],
+  "SelectedNode": "\\src\\components\\data_transformation.py",
+  "PreviewInSolutionExplorer": false
+}
