@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.ebextensions",
+    "\\.github",
     "\\artifacts",
-    "\\notebook",
-    "\\notebook\\data",
     "\\src",
     "\\src\\components",
-    "\\src\\pipeline",
-    "\\templates"
+    "\\src\\pipeline"
   ],
-  "SelectedNode": "\\src\\components\\data_transformation.py",
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
